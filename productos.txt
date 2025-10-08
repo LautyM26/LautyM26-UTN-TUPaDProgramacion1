@@ -1,0 +1,5 @@
+Monitor,200.0,50
+Teclado,80.0,70
+Mouse,50.0,70
+Parlante,70.0,30
+Auriculares,30.0,50
